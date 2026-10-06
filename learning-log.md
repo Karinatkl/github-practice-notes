@@ -8,3 +8,6 @@
 - Markdown 用 # 做標題，- 做清單
 - 新增咗另一個 .md 檔案 learning-log.md
 - 認識：一個repo可以擺好多個唔同嘅Markdown檔
+## 分支實驗
+- 開咗 experiment-branch 分支，做實驗修改
+- 分支係 main 嘅平行副本，實驗唔會影響 main
