@@ -55,3 +55,18 @@ li {
   flex:1;
   min-width:200px;
 }
+.container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top:30px;
+}
+.card {
+  flex:1;
+  min-width:200px;
+  transition: transform 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+}
+
